@@ -29,3 +29,5 @@ int main(){
 void MyPrintF(){
 	printf("\n GOOD PRINT! \n");
 }
+
+//g++ -o EXEt ifdeftest.c
